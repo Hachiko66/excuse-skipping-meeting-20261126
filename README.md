@@ -8,13 +8,13 @@ Entry for the [The Funniest Excuse for Skipping a Meeting bounty](https://make.f
 
 ## The entry
 
-> Skipping today's meeting — I already wrote the minutes: 'We discussed it and agreed to discuss it again next week.'
+> Sorry I missed the meeting — I was stuck in the meeting this meeting was called to replace.
 
-115 characters.
+91 characters.
 
 ## Why it should win
 
-The joke has a real turn: the minutes are already written before the meeting has even happened, because the outcome is a foregone conclusion. The payoff — "we discussed it and agreed to discuss it again next week" — is the single most recognisable pointless-meeting truth in office life, so the laugh arrives with a nod. It is not a stock excuse about bad wifi, a cat, or a dentist; it is a specific, original line that only works because the meeting itself is pointless. And it is tight: one sentence, no throat-clearing, no explaining of the joke.
+The joke has a sharp, recursive turn: the meeting being skipped existed only to replace another meeting — and the speaker was stuck in that original meeting instead. Meetings spawning meetings to replace meetings is the most recognisable pointless-meeting truth in office life, so the laugh arrives with a nod; the triple "meeting" is the punchline, not padding. It is not a stock excuse about bad wifi, a cat, or a dentist; it is a specific, original line that only works because the meeting itself is pointless. And it is tight: one sentence, no throat-clearing, no explaining of the joke.
 
 `main.py` writes the line deterministically (Python 3 standard library only, no randomness, time, or network).
 
